@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Sachin
 
-### Software Engineer
-
-Software Engineer building scalable **backend systems**, **enterprise data platforms**, and **modern full-stack applications**.
+Building scalable **backend systems**, **enterprise data platforms**, and **modern full-stack applications**.
 
 ---
 
